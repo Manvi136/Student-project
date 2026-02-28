@@ -5,7 +5,7 @@ import java.util.Scanner;
  * MAIN CLASS - UseCase3PalindromeCheckerApp
  * ===================================================
  * 
- * Use Case 2: Reverse String Based Palindrome Check
+ * Use Case 3: Reverse String Based Palindrome Check
  * 
  * Description:
  * This class checks whether a string is a palindrome 
