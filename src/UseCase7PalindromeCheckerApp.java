@@ -7,7 +7,7 @@ import java.util.Stack;
 
 /**
  * ===================================================
- * MAIN CLASS - UseCase6PalindromeCheckerApp
+ * MAIN CLASS - UseCase7PalindromeCheckerApp
  * ===================================================
  * 
  * Use Case 7: Deque Based Optimized Palindrome Checker
