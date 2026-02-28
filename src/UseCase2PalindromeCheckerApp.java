@@ -26,7 +26,7 @@ import java.util.Scanner;
  * @version 3.0
  */
 
-public class UseCase2PalindromeCheckerApp {
+public class UseCase3PalindromeCheckerApp {
     /**
      * Application entry point for UC3.
      * 
